@@ -9,3 +9,6 @@ En inspeccionar --> aplicación --> despliego Almacenamiento local
 --> localStorage.setItem() **GUARDAR EN LOCAL**
 --> localStorage.removeItem() **BORRAR LO GUARDADO**
 --> localStorage.clear()   **LIMPIAR TODO**
+
+
+https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage 
